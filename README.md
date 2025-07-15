@@ -1,4 +1,4 @@
-# step-by-step-cpp
+# Step-by-Step-cpp
 
 👋 Welcome to my programming journey!
 
