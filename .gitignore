@@ -1,0 +1,17 @@
+# Ignore common build/output files
+*.o
+*.out
+*.exe
+
+# Ignore input/output text files
+*.txt
+
+# macOS junk file
+.DS_Store
+
+
+# But allow source code and docs
+!*.c
+!*.cpp
+!*.h
+!*.md
