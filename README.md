@@ -38,25 +38,43 @@ This section includes:
 
 ---
 
+
 ## 🌳 Introduction to Data Structures (with C++)
 
-This section is the core of my current focus. It includes the implementation of essential data structures and algorithms using **C++**. Each topic is organized into its own folder with explanation, code, and practice problems.
+This folder focuses on the **fundamentals of data structures** implemented using **C++**.  
+Each topic is organized with explanations, code, and related practice problems.
 
-Topics covered so far:
-- STL Vector
-- Prefix Sum and Binary Search
-- Singly Linked List (and various operations)
-- Doubly Linked List
-- STL List and cycle detection
-- Graphs (BFS, DFS, Dijkstra)
-- Trees and Binary Trees
-- Binary Search Trees (BST)
-- Heaps and Priority Queues
-- Hash Maps and Hash Sets
-- Tries
-- Segment Tree, Fenwick Tree
-- Disjoint Set Union (Union-Find)
-- Practice problems related to each topic (Codeforces & others)
+### Topics covered:
+- Time Complexity & Space Complexity  
+- Linear Search, Binary Search, Selection Sort  
+- Two Pointers & Prefix Sum  
+- Singly Linked List  
+- Doubly Linked List  
+- Stack  
+- Queue  
+- Priority Queue  
+- Binary Tree  
+- Binary Search Tree (BST) & Heap  
+
+---
+
+## ⚡ Introduction to Algorithms (with C++)
+
+This folder focuses on **fundamental algorithms** and their implementation using **C++**.  
+Each algorithm includes explanations, code, and practice problems from online judges.  
+
+### Topics covered:
+- Basics of Graph  
+- Breadth First Search (BFS)  
+- Depth First Search (DFS) and 2D Grid  
+- Dijkstra’s Algorithm  
+- Bellman-Ford Algorithm  
+- Floyd-Warshall Algorithm  
+- Dynamic Programming  
+- 0-1 Knapsack and Variations  
+- Unbounded Knapsack and Variations  
+- Longest Common Subsequence (LCS) DP and Variations  
+- Minimum Spanning Tree (MST)  
 
 ---
 

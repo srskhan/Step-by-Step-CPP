@@ -7,17 +7,17 @@ int main(){
         scanf("%d",&arr[i]);
     }
 
-    int palindrome=0;
+    int palindrome=1;
     int i=0;
     int j=n-1;
 
-    while(arr[i]==arr[j]){
-        i++;
-        j--;
-        if(i>j){
-            palindrome=1;
+    while(i < j) {
+        if(arr[i] != arr[j]) {
+            palindrome = 0;
             break;
         }
+        i++;
+        j--;
     }
 
     if(palindrome==1){
